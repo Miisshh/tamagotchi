@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="main_background" type="id" />
+    <item name="startLayout" type="id" />
+    <item name="buttonStart" type="id" />
+</resources>
